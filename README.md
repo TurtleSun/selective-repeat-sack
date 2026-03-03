@@ -1,6 +1,6 @@
 # selective-repeat-sack
 
-A simulation of the **Selective Repeat ARQ protocol with SACK (Selective Acknowledgment) extensions**, implemented in C as part of graduate coursework in Advanced Computer Networks at Boston University.
+A simulation of the **Selective Repeat ARQ protocol with SACK (Selective Acknowledgment) extensions**, implemented in C, exploring reliable transport protocol design over unreliable networks.
 
 ## Overview
 
